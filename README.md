@@ -114,6 +114,10 @@ ____
 
 **Submissions**<br>
 - To submit your Challenge assignment, click Submit, and then provide the URL of your GitHub repository for grading.<br>
+
+**Note:**
+- Worked with and helped other students with formatting and variable's.
+  - Bryson, Emma, Brian. 
 ____
 
 
