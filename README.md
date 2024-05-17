@@ -115,9 +115,13 @@ ____
 **Submissions**<br>
 - To submit your Challenge assignment, click Submit, and then provide the URL of your GitHub repository for grading.<br>
 
-**Note:**
-- Worked with and helped other students with formatting and variable's.
-  - Bryson, Emma, Brian. 
+**Note:**<br>
+- .py files are located inside PyBank and Pypoll respectively. <br>
+- .csv files are located inside the Resources folders respectively<br>
+- .txt/output files are located inside Analysis folders respectively<br>
+<br>
+- Worked with and helped other students with formatting and variable's.<br>
+  - Bryson, Emma, Brian. <br>
 ____
 
 
